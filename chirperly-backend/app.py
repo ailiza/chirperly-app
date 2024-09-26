@@ -8,7 +8,7 @@ db.init_app(app)
 
 @app.route('/')
 def hello():
-    return 'Hello from Chirperly Backend!'
+    return 'Hello from Chirperly Backend! :)'
 
 @app.route('/get_response', methods=['POST'])
 def get_response():
