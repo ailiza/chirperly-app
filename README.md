@@ -20,6 +20,8 @@ Chirperly is an AI-powered messaging app that helps you stay genuinely connected
 * **AI:** Natural Language Processing (NLP) libraries (e.g., Hugging Face Transformers), Sentiment Analysis models, ChatGPT
 * **Messaging:** SMS API (e.g., Twilio)
 
+
+
 ## Getting Started
 
 1. **Clone the repository:** 
